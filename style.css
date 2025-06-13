@@ -1,0 +1,50 @@
+#button {
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  top: calc(100% - 350px);
+  right: calc(100% - 400px);
+  float: right;
+  padding: 20px;
+  z-index: 9999;
+  line-height: 100px;
+  text-align: center;
+  color: white;
+  opacity: 1;
+  border-radius: 0px;
+  border: none;
+  cursor: pointer;
+  background-image: url(' https://cdn.glitch.global/b28ad8a1-f3f3-4d63-8a65-3d3dc2206b4e/Cordilleras.png?v=1661525609361');
+  background-repeat: no-repeat;
+}
+
+#button:hover {
+  
+  opacity: 0.5;
+}
+
+div#button2 {
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  top: calc(100% - 480px);
+  right: calc(100% - 400px);
+  float: right;
+  padding: 20px;
+  z-index: 9999;
+  line-height: 100px;
+  text-align: center;
+  color: white;
+  opacity: 1;
+  border-radius: 0px;
+  border: none;
+  cursor: pointer;
+   background-image: url(' https://cdn.glitch.global/b28ad8a1-f3f3-4d63-8a65-3d3dc2206b4e/Capitales.png?v=1661526257583');
+  background-repeat: no-repeat;
+ 
+}
+
+#button2:hover {
+  
+  opacity: 0.5;
+}
